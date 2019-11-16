@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">objekwisata</string>
+    <string name="title_activity_admin">AdminActivity</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>
